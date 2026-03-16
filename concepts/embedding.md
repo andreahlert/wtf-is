@@ -15,4 +15,4 @@ Use cases:
   Dedup:      "are these two descriptions the same thing?"
 ```
 
-**Examples:** OpenAI Embeddings API, Sentence-Transformers, Cohere Embed, Google Gecko
+**Examples:** [OpenAI Embeddings API](https://platform.openai.com/docs/guides/embeddings), [Sentence-Transformers](https://github.com/UKPLab/sentence-transformers), [Cohere Embed](https://cohere.com/embed), [Google Gecko](https://cloud.google.com/vertex-ai/docs/generative-ai/embeddings/get-text-embeddings)

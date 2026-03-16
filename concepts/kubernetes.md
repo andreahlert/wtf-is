@@ -15,4 +15,4 @@ You say:                     Kubernetes does:
                            ┌──→ [app] ✓ back up
 ```
 
-**Examples:** Kubernetes (k8s), k3s (lightweight), Amazon EKS, Google GKE, Azure AKS
+**Examples:** [Kubernetes](https://github.com/kubernetes/kubernetes) (k8s), [k3s](https://github.com/k3s-io/k3s) (lightweight), [Amazon EKS](https://aws.amazon.com/eks/), [Google GKE](https://cloud.google.com/kubernetes-engine), [Azure AKS](https://azure.microsoft.com/en-us/products/kubernetes-service)

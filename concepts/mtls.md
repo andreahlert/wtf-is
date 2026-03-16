@@ -17,4 +17,4 @@ mTLS:
   Both: "we trust each other" ✓✓
 ```
 
-**Examples:** Istio (service mesh), Kubernetes API server, Cloudflare Zero Trust
+**Examples:** [Istio](https://github.com/istio/istio) (service mesh), [Kubernetes API server](https://kubernetes.io/docs/reference/access-authn-authz/), [Cloudflare Zero Trust](https://www.cloudflare.com/zero-trust/)

@@ -12,4 +12,4 @@ Read from node B:   "name = Bob"    ← stale (hasn't synced yet)
 Read from node B:   "name = Alice"  ← caught up
 ```
 
-**Examples:** DNS, DynamoDB (default mode), Cassandra, S3
+**Examples:** [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DynamoDB](https://aws.amazon.com/dynamodb/) (default mode), [Cassandra](https://github.com/apache/cassandra), [S3](https://aws.amazon.com/s3/)

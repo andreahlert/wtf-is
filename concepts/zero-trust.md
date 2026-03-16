@@ -14,4 +14,4 @@ Zero Trust:
                     same checks regardless of location
 ```
 
-**Examples:** Google BeyondCorp, Cloudflare Zero Trust, Zscaler, Tailscale
+**Examples:** [Google BeyondCorp](https://cloud.google.com/beyondcorp), [Cloudflare Zero Trust](https://www.cloudflare.com/zero-trust/), [Zscaler](https://www.zscaler.com/), [Tailscale](https://github.com/tailscale/tailscale)

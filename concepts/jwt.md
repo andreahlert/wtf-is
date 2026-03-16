@@ -18,4 +18,4 @@ Server verifies:
   3. Matches? → trust the payload. Doesn't match? → reject.
 ```
 
-**Examples:** Used in most modern auth systems, often paired with OAuth 2.0
+**Examples:** Used in most modern auth systems, often paired with [OAuth 2.0](https://oauth.net/2/)

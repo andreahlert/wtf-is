@@ -14,4 +14,4 @@ With CDN:
                            fetches from Origin, caches it
 ```
 
-**Examples:** Cloudflare, AWS CloudFront, Fastly, Akamai
+**Examples:** [Cloudflare](https://www.cloudflare.com/cdn/), [AWS CloudFront](https://aws.amazon.com/cloudfront/), [Fastly](https://www.fastly.com/), [Akamai](https://www.akamai.com/)

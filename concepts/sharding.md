@@ -17,4 +17,4 @@ Sharded by user_id:
   Query for user "Alice" → shard key = "A" → goes to Shard 1
 ```
 
-**Examples:** MongoDB (auto-sharding), Vitess (MySQL sharding), CockroachDB, Cassandra
+**Examples:** [MongoDB](https://github.com/mongodb/mongo) (auto-sharding), [Vitess](https://github.com/vitessio/vitess) (MySQL sharding), [CockroachDB](https://github.com/cockroachdb/cockroach), [Cassandra](https://github.com/apache/cassandra)

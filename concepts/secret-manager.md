@@ -18,4 +18,4 @@ Secret Manager:
                                      └── auto-rotation every 30 days
 ```
 
-**Examples:** AWS Secrets Manager, HashiCorp Vault, GCP Secret Manager, Doppler, 1Password (for teams)
+**Examples:** [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/), [HashiCorp Vault](https://github.com/hashicorp/vault), [GCP Secret Manager](https://cloud.google.com/secret-manager), [Doppler](https://www.doppler.com/), [1Password](https://1password.com/) (for teams)

@@ -23,4 +23,4 @@ VPC example:
   └── Private: 10.0.2.0/24   (256 addresses)
 ```
 
-**Examples:** AWS VPCs, security groups, firewall rules, routing tables
+**Examples:** [AWS VPCs](https://docs.aws.amazon.com/vpc/), [security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html), [firewall rules](https://cloud.google.com/firewall/docs), [routing tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)

@@ -14,4 +14,4 @@
   └─── CI ──────────┘       └──── CD ────────────────┘
 ```
 
-**Examples:** GitHub Actions, GitLab CI, Jenkins, CircleCI
+**Examples:** [GitHub Actions](https://github.com/features/actions), [GitLab CI](https://docs.gitlab.com/ci/), [Jenkins](https://github.com/jenkinsci/jenkins), [CircleCI](https://circleci.com/)

@@ -14,4 +14,4 @@ With mesh:
                        all handled automatically
 ```
 
-**Examples:** Istio, Linkerd, Consul Connect
+**Examples:** [Istio](https://github.com/istio/istio), [Linkerd](https://github.com/linkerd/linkerd2), [Consul Connect](https://github.com/hashicorp/consul)

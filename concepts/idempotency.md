@@ -15,4 +15,4 @@ Fix: use an idempotency key
   Header: Idempotency-Key: abc-123   ← server deduplicates by this key
 ```
 
-**Examples:** Stripe (Idempotency-Key header), AWS (client tokens), any well-designed API
+**Examples:** [Stripe](https://stripe.com/docs/api/idempotent_requests) (Idempotency-Key header), [AWS](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/Run_Instance_Idempotency.html) (client tokens), any well-designed API

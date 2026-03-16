@@ -13,4 +13,4 @@ Multi-repo:                     Monorepo:
 dependency versioning hell      └── one repo, one CI, atomic changes
 ```
 
-**Examples:** Google (all code in one repo), Turborepo, Nx, Bazel, Lerna
+**Examples:** Google (all code in one repo), [Turborepo](https://github.com/vercel/turborepo), [Nx](https://github.com/nrwl/nx), [Bazel](https://github.com/bazelbuild/bazel), [Lerna](https://github.com/lerna/lerna)

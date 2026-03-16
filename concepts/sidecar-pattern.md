@@ -16,4 +16,4 @@ Pod / Host
 └────────────────────────────────┘
 ```
 
-**Examples:** Envoy (in Istio), Datadog Agent, Fluentd log collector
+**Examples:** [Envoy](https://github.com/envoyproxy/envoy) (in Istio), [Datadog Agent](https://github.com/DataDog/datadog-agent), [Fluentd](https://github.com/fluent/fluentd) log collector

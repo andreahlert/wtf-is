@@ -21,4 +21,4 @@ AP: always responds but may return stale data during partition
     → Cassandra, DynamoDB, CouchDB
 ```
 
-**Examples:** PostgreSQL (CA, single node), MongoDB (CP), Cassandra (AP), DynamoDB (AP)
+**Examples:** [PostgreSQL](https://github.com/postgres/postgres) (CA, single node), [MongoDB](https://github.com/mongodb/mongo) (CP), [Cassandra](https://github.com/apache/cassandra) (AP), [DynamoDB](https://aws.amazon.com/dynamodb/) (AP)

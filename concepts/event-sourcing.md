@@ -14,4 +14,4 @@ Event Sourcing (store events):
   → replay = $500          ← same result, full history
 ```
 
-**Examples:** EventStoreDB, Apache Kafka (as event log), Axon Framework
+**Examples:** [EventStoreDB](https://github.com/EventStore/EventStore), [Apache Kafka](https://github.com/apache/kafka) (as event log), [Axon Framework](https://github.com/AxonFramework/AxonFramework)

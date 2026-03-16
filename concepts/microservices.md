@@ -14,4 +14,4 @@ Monolith:                          Microservices:
 └──────────────────┘
 ```
 
-**Examples:** Most large-scale apps (Netflix, Uber, Spotify) use some form of this
+**Examples:** Most large-scale apps ([Netflix](https://netflix.github.io/), [Uber](https://www.uber.com/en-BR/blog/microservice-architecture/), [Spotify](https://engineering.atspotify.com/)) use some form of this

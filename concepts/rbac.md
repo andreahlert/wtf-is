@@ -22,4 +22,4 @@ With RBAC:
   → change Carol to editor? one assignment, done
 ```
 
-**Examples:** AWS IAM, Kubernetes RBAC, GitHub org roles, PostgreSQL roles
+**Examples:** [AWS IAM](https://aws.amazon.com/iam/), [Kubernetes RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac/), [GitHub org roles](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles), [PostgreSQL roles](https://www.postgresql.org/docs/current/user-manag.html)

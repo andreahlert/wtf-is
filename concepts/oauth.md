@@ -15,4 +15,4 @@ A protocol that lets a user grant a third-party app limited access to their acco
   [Your App] ←── [token: read:repos only] ←──────────┘
 ```
 
-**Examples:** "Sign in with Google/GitHub/Apple", Slack integrations, any "Connect your account" flow
+**Examples:** "Sign in with [Google](https://developers.google.com/identity)/[GitHub](https://docs.github.com/en/apps/oauth-apps)/[Apple](https://developer.apple.com/sign-in-with-apple/)", [Slack integrations](https://api.slack.com/authentication/oauth-v2), any "Connect your account" flow

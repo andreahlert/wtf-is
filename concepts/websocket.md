@@ -18,4 +18,4 @@ WebSocket (persistent):
   Client ──→ "typing..."         ← client sends when ready
 ```
 
-**Examples:** Chat apps, live dashboards, multiplayer games, collaborative editing (Figma)
+**Examples:** Chat apps, live dashboards, multiplayer games, collaborative editing ([Figma](https://www.figma.com/))

@@ -15,4 +15,4 @@ State machine:
                         failure → back to [OPEN]
 ```
 
-**Examples:** Resilience4j (Java), Polly (.NET), Hystrix (deprecated but influential)
+**Examples:** [Resilience4j](https://github.com/resilience4j/resilience4j) (Java), [Polly](https://github.com/App-vNext/Polly) (.NET), [Hystrix](https://github.com/Netflix/Hystrix) (deprecated but influential)

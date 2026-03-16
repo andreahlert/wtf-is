@@ -19,4 +19,4 @@ Common error:
 Fix: configure your server to return the right headers, not disable CORS.
 ```
 
-**Examples:** Every frontend app that talks to a separate API has dealt with this
+**Examples:** [MDN CORS docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), [cors middleware (Express)](https://github.com/expressjs/cors), [rs/cors (Go)](https://github.com/rs/cors)

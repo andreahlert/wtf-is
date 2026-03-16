@@ -14,4 +14,4 @@ Developer          Git Repo              Cluster
    │              git revert ←──────────── rollback = git revert
 ```
 
-**Examples:** ArgoCD, Flux, Weave GitOps
+**Examples:** [ArgoCD](https://github.com/argoproj/argo-cd), [Flux](https://github.com/fluxcd/flux2), [Weave GitOps](https://github.com/weaveworks/weave-gitops)

@@ -17,4 +17,4 @@ Define your API in a .proto file:
   }
 ```
 
-**Examples:** gRPC (by Google), used heavily in Kubernetes, Envoy, many microservice architectures
+**Examples:** [gRPC](https://github.com/grpc/grpc) (by Google), used heavily in [Kubernetes](https://github.com/kubernetes/kubernetes), [Envoy](https://github.com/envoyproxy/envoy), many microservice architectures

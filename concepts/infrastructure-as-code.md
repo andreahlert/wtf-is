@@ -13,4 +13,4 @@ Old way:                          IaC:
                                    3. Same result every time
 ```
 
-**Examples:** Terraform, Pulumi, AWS CloudFormation, Crossplane
+**Examples:** [Terraform](https://github.com/hashicorp/terraform), [Pulumi](https://github.com/pulumi/pulumi), [AWS CloudFormation](https://aws.amazon.com/cloudformation/), [Crossplane](https://github.com/crossplane/crossplane)

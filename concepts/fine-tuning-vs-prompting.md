@@ -28,4 +28,4 @@ When to use what:
        └── Fine-tune
 ```
 
-**Examples:** OpenAI fine-tuning API, LoRA/QLoRA for open models, Hugging Face PEFT
+**Examples:** [OpenAI fine-tuning API](https://platform.openai.com/docs/guides/fine-tuning), [LoRA/QLoRA](https://github.com/microsoft/LoRA) for open models, [Hugging Face PEFT](https://github.com/huggingface/peft)

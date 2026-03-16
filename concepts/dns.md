@@ -22,4 +22,4 @@ Common record types:
   MX     →  domain → mail server
 ```
 
-**Examples:** Cloudflare DNS (1.1.1.1), Google DNS (8.8.8.8), Route 53, dig command
+**Examples:** [Cloudflare DNS](https://www.cloudflare.com/dns/) (1.1.1.1), [Google DNS](https://developers.google.com/speed/public-dns) (8.8.8.8), [Route 53](https://aws.amazon.com/route53/), [dig command](https://linux.die.net/man/1/dig)

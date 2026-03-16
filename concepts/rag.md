@@ -18,4 +18,4 @@ With RAG:
     └── 3. LLM: "You can request a refund within 30 days..." ← grounded answer
 ```
 
-**Examples:** ChatGPT with file uploads, Perplexity, any "chat with your docs" product
+**Examples:** [ChatGPT with file uploads](https://openai.com/index/chatgpt/), [Perplexity](https://www.perplexity.ai/), any "chat with your docs" product

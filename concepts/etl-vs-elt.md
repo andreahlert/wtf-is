@@ -20,4 +20,4 @@ ELT:
                               the heavy lifting (SQL, dbt)
 ```
 
-**Examples:** ETL: Apache Airflow, Informatica, Talend. ELT: dbt, Fivetran + Snowflake, Airbyte
+**Examples:** ETL: [Apache Airflow](https://github.com/apache/airflow), [Informatica](https://www.informatica.com/), [Talend](https://www.talend.com/). ELT: [dbt](https://github.com/dbt-labs/dbt-core), [Fivetran](https://www.fivetran.com/) + [Snowflake](https://www.snowflake.com/), [Airbyte](https://github.com/airbytehq/airbyte)

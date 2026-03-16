@@ -100,15 +100,15 @@
   <rect x="340" y="205" width="220" height="2" rx="1" fill="url(#accent)" opacity="0.6"/>
 
   <!-- Stats pills -->
-  <g transform="translate(280, 232)">
-    <rect width="90" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="45" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#58a6ff">38 concepts</text>
+  <g transform="translate(268, 232)">
+    <rect width="100" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="50" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#58a6ff">857 concepts</text>
   </g>
-  <g transform="translate(382, 232)">
-    <rect width="80" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="40" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#bc8cff">6 categories</text>
+  <g transform="translate(380, 232)">
+    <rect width="95" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="47" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#bc8cff">10 categories</text>
   </g>
-  <g transform="translate(474, 232)">
+  <g transform="translate(487, 232)">
     <rect width="80" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
     <text x="40" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#f78166">0 fluff</text>
   </g>

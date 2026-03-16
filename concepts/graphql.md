@@ -20,4 +20,4 @@ GraphQL:
   1 request, only what you asked for
 ```
 
-**Examples:** GitHub API v4, Shopify, Apollo, Hasura
+**Examples:** [GitHub API v4](https://docs.github.com/en/graphql), [Shopify](https://shopify.dev/docs/api/admin-graphql), [Apollo](https://github.com/apollographql/apollo-server), [Hasura](https://github.com/hasura/graphql-engine)

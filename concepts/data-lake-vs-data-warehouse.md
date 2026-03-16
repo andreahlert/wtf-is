@@ -17,4 +17,4 @@ Data Lake:                          Data Warehouse:
   cheap, messy, flexible              expensive, clean, fast queries
 ```
 
-**Examples:** Lake: S3, Azure Data Lake, GCS. Warehouse: Snowflake, BigQuery, Redshift. Both: Databricks (Lakehouse)
+**Examples:** Lake: [S3](https://aws.amazon.com/s3/), [Azure Data Lake](https://azure.microsoft.com/en-us/products/storage/data-lake-storage), [GCS](https://cloud.google.com/storage). Warehouse: [Snowflake](https://www.snowflake.com/), [BigQuery](https://cloud.google.com/bigquery), [Redshift](https://aws.amazon.com/redshift/). Both: [Databricks](https://www.databricks.com/) (Lakehouse)

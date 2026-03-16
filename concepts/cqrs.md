@@ -16,4 +16,4 @@ CQRS:
                    fast queries       pre-computed)
 ```
 
-**Examples:** Often paired with Event Sourcing. Used in Axon, MediatR (.NET)
+**Examples:** Often paired with Event Sourcing. Used in [Axon](https://github.com/AxonFramework/AxonFramework), [MediatR](https://github.com/jbogard/MediatR) (.NET)

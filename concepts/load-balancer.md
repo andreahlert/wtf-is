@@ -12,4 +12,4 @@ Without:                        With:
                                                   traffic to server 3
 ```
 
-**Examples:** AWS ALB/NLB, Nginx, HAProxy, Cloudflare LB
+**Examples:** [AWS ALB/NLB](https://aws.amazon.com/elasticloadbalancing/), [Nginx](https://github.com/nginx/nginx), [HAProxy](https://github.com/haproxy/haproxy), [Cloudflare LB](https://www.cloudflare.com/load-balancing/)

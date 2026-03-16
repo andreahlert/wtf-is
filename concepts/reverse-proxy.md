@@ -14,4 +14,4 @@ With reverse proxy:
                   └── handles SSL, caching, rate limiting
 ```
 
-**Examples:** Nginx, Caddy, Traefik, HAProxy
+**Examples:** [Nginx](https://github.com/nginx/nginx), [Caddy](https://github.com/caddyserver/caddy), [Traefik](https://github.com/traefik/traefik), [HAProxy](https://github.com/haproxy/haproxy)

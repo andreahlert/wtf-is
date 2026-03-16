@@ -18,4 +18,4 @@ How it works:
   [0.9, 0.1, 0.8] ← far (different item)  ✗
 ```
 
-**Examples:** Pinecone, Weaviate, Milvus, Qdrant, pgvector (PostgreSQL extension)
+**Examples:** [Pinecone](https://www.pinecone.io/), [Weaviate](https://github.com/weaviate/weaviate), [Milvus](https://github.com/milvus-io/milvus), [Qdrant](https://github.com/qdrant/qdrant), [pgvector](https://github.com/pgvector/pgvector) (PostgreSQL extension)

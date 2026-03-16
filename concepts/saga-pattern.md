@@ -19,4 +19,4 @@ Inventory fails:
                   └──→ [Cancel Order]
 ```
 
-**Examples:** Temporal, AWS Step Functions, MassTransit, Eventuate
+**Examples:** [Temporal](https://github.com/temporalio/temporal), [AWS Step Functions](https://aws.amazon.com/step-functions/), [MassTransit](https://github.com/MassTransit/MassTransit), [Eventuate](https://github.com/eventuate-tram/eventuate-tram-core)
